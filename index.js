@@ -22,7 +22,7 @@ let posts = [
     },
     {
         id:uuidv4(),
-        username: "Noman Ali",
+        username: "Noman Ali khan",
         content: "Hard work is important ton achive success",
     },
     {
